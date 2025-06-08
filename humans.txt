@@ -3,6 +3,7 @@
 
 # TEAM
 
+    Joska Pista emailcim
     <name> -- <role> -- <twitter>
 
 # THANKS
