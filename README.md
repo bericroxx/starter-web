@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 This is a simple git project
 Maybe an addition change
+
+### Copyright
+    cr segment
