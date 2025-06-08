@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is a simple git project
+Maybe an addition change
